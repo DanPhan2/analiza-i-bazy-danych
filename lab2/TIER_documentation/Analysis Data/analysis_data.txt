@@ -1,0 +1,1 @@
+Tu byłyby pliki uporządkowanych danych, ale cały proces był wykonany w ramach jednego noatatnika Jupyter.
